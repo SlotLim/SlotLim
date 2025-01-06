@@ -1,0 +1,11 @@
+Package: SlotLim
+Title: Catch advice for data-limited fisheries managed by harvest slot limits
+Description: R package to accompany 'SlotLim: catch advice for data-limited fisheries managed by harvest slot limits'. 
+Version: 0.0.1.0
+Authors@R: c(
+    person("Calum", "Pritchard", email = "c.pritchard.21@abdn.ac.uk", comment = c(ORCID = "0000-0001-7093-6785"), role = c("aut", "cre")))
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: ggplot2
